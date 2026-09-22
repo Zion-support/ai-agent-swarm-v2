@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Agent Swarm v2
 
-**ai-agent-swarm-v2** is part of the Zion Tech Group app network (630+ apps).
+Advanced swarm intelligence with consensus algorithms for multi-agent systems.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [AI Agents & Orchestration](https://github.com/Zion-support/zion-network/blob/main/network/ai-agents-orchestration.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [agents](https://github.com/Zion-support/agents)
+- Related: [ai-agent-swarm](https://github.com/Zion-support/ai-agent-swarm) · [ai-agent-fleet](https://github.com/Zion-support/ai-agent-fleet) · [zion-ai-agent-orchestrator](https://github.com/Zion-support/zion-ai-agent-orchestrator) · [zion-agentforge](https://github.com/Zion-support/zion-agentforge)
 
-## Related apps
-- [agent-sla-monitor](https://github.com/Zion-support/agent-sla-monitor) — Agent SLA monitoring
-- [agents](https://github.com/Zion-support/agents) — AI Agents — Zion Tech Group
-- [ai-agent-fleet](https://github.com/Zion-support/ai-agent-fleet) — Fleet orchestration for enterprise automation
-- [ai-agent-swarm](https://github.com/Zion-support/ai-agent-swarm) — Unified agent swarm coordination
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
