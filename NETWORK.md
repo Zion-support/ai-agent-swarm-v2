@@ -1,10 +1,11 @@
-# AI Agent Swarm v2
+# 🔗 Zion App Network
 
-Advanced swarm intelligence with consensus algorithms for multi-agent systems.
+This app is part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [agents](https://github.com/Zion-support/agents)
-- Related: [ai-agent-swarm](https://github.com/Zion-support/ai-agent-swarm) · [ai-agent-fleet](https://github.com/Zion-support/ai-agent-fleet) · [zion-ai-agent-orchestrator](https://github.com/Zion-support/zion-ai-agent-orchestrator) · [zion-agentforge](https://github.com/Zion-support/zion-agentforge)
+- 🏠 Homepage: https://ziontechgroup.com
+- 📂 Full catalog: https://ziontechgroup.com/apps/
+- 📢 Network overview: https://ziontechgroup.com/app-network/
+- 💻 GitHub: https://github.com/Zion-support
+- ✉️ commercial@ziontechgroup.com
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+**Related apps:** [ai-agent-swarm](https://github.com/Zion-support/ai-agent-swarm) · [ai-agent-fleet](https://github.com/Zion-support/ai-agent-fleet) · [zion-ai-pr-review-swarm](https://github.com/Zion-support/zion-ai-pr-review-swarm)
